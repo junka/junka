@@ -1,0 +1,17 @@
+name: feishu bot event
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  send-event:
+    name: Webhook
+    runs-on: ubuntu-latest
+    steps:
+      - uses: joelwmale/webhook-action@master
+        with:
+          url: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          headers: '{"repository": "junka/junka"}'
+          body: '{"msg_type":"text","content":{"text":"action trigger"}}'
+          github_event_payload: true
