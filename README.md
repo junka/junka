@@ -11,11 +11,11 @@ I'm interested in lowlevel of codec, networking, etc.
 <!--START_SECTION:waka-->
 
 ```txt
-C++          9 hrs 58 mins   ██████████████░░░░░░░░░░░   56.18 %
-TypeScript   5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-Other        2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+C++          12 hrs 55 mins  ███████████████░░░░░░░░░░   59.85 %
+TypeScript   5 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Other        3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
