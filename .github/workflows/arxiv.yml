@@ -1,0 +1,16 @@
+name: ARXIV papers daily on your TOPIC
+
+on:
+  schedule:
+    - cron: 30 2 * * *
+
+jobs:
+  send-event:
+    name: Arxiv paper to feishu
+    runs-on: ubuntu-latest
+    steps:
+      - uses: junka/arxiv_feishu_bot_action@main
+        with:
+          keyword: 'networking'
+          webhook: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+        signkey: ${{ secrets.FEISHU_BOT_SIGNKEY }}
