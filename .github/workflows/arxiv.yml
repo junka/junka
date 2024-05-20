@@ -13,4 +13,4 @@ jobs:
         with:
           keyword: 'networking'
           webhook: ${{ secrets.FEISHU_BOT_WEBHOOK }}
-        signkey: ${{ secrets.FEISHU_BOT_SIGNKEY }}
+          signkey: ${{ secrets.FEISHU_BOT_SIGNKEY }}
