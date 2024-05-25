@@ -12,11 +12,11 @@ Recently working on OVS-DPDK.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    17 hrs 32 mins  ████████████████░░░░░░░░░   64.34 %
-C             4 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Other         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-JSON          1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-YAML          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+TypeScript    14 hrs 3 mins   ███████████████░░░░░░░░░░   59.77 %
+C             4 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Other         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+JSON          58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Markdown      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
