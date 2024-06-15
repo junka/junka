@@ -29,8 +29,8 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-C       4 hrs 27 mins   ██████████████████▒░░░░░░   72.97 %
-Other   1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+C       3 hrs 31 mins   ██████████████████▓░░░░░░   74.88 %
+Other   1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
 ```
 
 <!--END_SECTION:waka-->
