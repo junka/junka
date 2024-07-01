@@ -29,11 +29,11 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         1 hr 16 mins    ██████████▒░░░░░░░░░░░░░░   41.22 %
-JavaScript    59 mins         ████████░░░░░░░░░░░░░░░░░   32.00 %
-JSON          33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-TypeScript    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Markdown      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript    1 hr 33 mins    ███████████████▓░░░░░░░░░   62.70 %
+JSON          25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Other         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+TypeScript    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Markdown      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
