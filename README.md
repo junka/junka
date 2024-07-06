@@ -29,8 +29,11 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 13 mins    ████████████████▒░░░░░░░░   65.41 %
-C            38 mins         ████████▓░░░░░░░░░░░░░░░░   34.59 %
+YAML         1 hr 45 mins    ███████████▓░░░░░░░░░░░░░   47.00 %
+C            1 hr 7 mins     ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+JavaScript   45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Makefile     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
