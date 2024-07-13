@@ -29,11 +29,7 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 45 mins    ██████████████████▓░░░░░░   75.28 %
-C            28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Makefile     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
