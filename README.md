@@ -29,7 +29,8 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C      45 mins         █████████████████████████   99.57 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
