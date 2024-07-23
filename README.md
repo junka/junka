@@ -29,7 +29,8 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 mins          █████████████░░░░░░░░░░░░   51.83 %
+C            3 mins          ████████████░░░░░░░░░░░░░   48.17 %
 ```
 
 <!--END_SECTION:waka-->
