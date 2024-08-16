@@ -29,10 +29,9 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 39 mins    ████████████████████████▒   97.25 %
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   41 mins         ███████████████████████▒░   93.81 %
+JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
