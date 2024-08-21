@@ -29,8 +29,7 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 mins          ██████████████████████▒░░   89.19 %
-JSON         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
