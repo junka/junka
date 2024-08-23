@@ -29,7 +29,11 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+reStructuredText   11 mins         █████████████░░░░░░░░░░░░   52.65 %
+YAML               6 mins          ███████░░░░░░░░░░░░░░░░░░   28.06 %
+C                  3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Devicetree         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
