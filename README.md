@@ -29,11 +29,11 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-C                  27 mins         ██████████████▓░░░░░░░░░░   59.30 %
-reStructuredText   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-YAML               6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Devicetree         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C                  1 hr 16 mins    ████████████████████░░░░░   79.34 %
+reStructuredText   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+YAML               6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Devicetree         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Objective-C        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
