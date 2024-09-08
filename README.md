@@ -29,10 +29,10 @@ Toy or useful tools:
 <!--START_SECTION:waka-->
 
 ```txt
-C             3 hrs 48 mins   ██████████████████████▓░░   91.31 %
-Makefile      15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Other         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C             4 hrs 53 mins   ███████████████████████▒░   93.10 %
+Makefile      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
